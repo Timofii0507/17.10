@@ -9,8 +9,8 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    double a, b, c;
     cout << "Обчислення об'єму паралелепіпеду." << endl;
+    double a, b, c;
     cout << "Введіть  вихідні  дані:" << endl;
     cout << "Довжина (см) -> ";
     cin >> a;
